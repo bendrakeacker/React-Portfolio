@@ -1,0 +1,50 @@
+[
+    {
+      "id": 1,
+      "name": "COVID-19 Test Center Locator",
+      "image": "../",
+      "description": "A Coronavirus test center locator based on user's selected state.",
+      "repo": "https://github.com/bendrakeacker/COVID-19-Test-Center-Locator",
+      "deployed": "https://jungjungie.github.io/COVID-19-Test-Center-Locator/"
+    },
+    {
+        "id": 2,
+        "name": "PLASMA",
+        "image": "",
+        "description": "An application that allows you to store songs in playlists and access their lyrics.",
+        "repo": "https://github.com/bendrakeacker/PLASMA",
+        "deployed": "https://plasma-playlistdashboard.herokuapp.com/"
+    },
+    {
+        "id": 3,
+        "name": "Password Generator",
+        "image": "",
+        "description": "A password generator based on user's selected character criteria",
+        "repo": "https://github.com/bendrakeacker/Password-Generator",
+        "deployed": "https://bendrakeacker.github.io/Password-Generator/"
+    },
+    {
+        "id": 4,
+        "name": "HEY EP -- Quarters of Change",
+        "image": "",
+        "description": "5-track pop rock extended project",
+        "repo": "https://open.spotify.com/album/4r60xeqCfBFvpjU03Y3nJz",
+        "deployed": "https://open.spotify.com/album/4r60xeqCfBFvpjU03Y3nJz"
+    },
+    {
+        "id": 5,
+        "name": "Workday Planner",
+        "image": "",
+        "description": "A calendar application that uses local storage to enable users to save events and displays via colors if a timeblock is in the past, present or future.",
+        "repo": "https://github.com/bendrakeacker/Third-Party-API-Workday-Schedule",
+        "deployed": "https://bendrakeacker.github.io/Third-Party-API-Workday-Schedule/"
+    },
+    {
+        "id": 6,
+        "name": "Template Engine Employee Summary",
+        "image": "",
+        "description": "A calendar application that uses local storage to enable users to save events and displays via colors if a timeblock is in the past, present or future.",
+        "repo": "https://github.com/bendrakeacker/Template-Engine-Employee-Summary",
+        "deployed": "https://github.com/bendrakeacker/Template-Engine-Employee-Summary"
+    }
+  ]
